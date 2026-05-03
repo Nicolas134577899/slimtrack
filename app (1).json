@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "SlimTrack",
+    "slug": "slimtrack",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.slimtrack.app",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#0d0d1a"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.slimtrack.app"
+    }
+  }
+}
